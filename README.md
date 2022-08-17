@@ -1,7 +1,7 @@
-<h1 align="center"> Welcome!, <img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0112.gif" 
+<h1 align="center"> <img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0112.gif" 
          alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Deepanshu Rajput</h1>
+         height="60"
+         width="80" /> Deepanshu Rajput here</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepi-badshah&label=Views&color=blue&style=plastic&style=for-the-badge" alt="deepi-badshah" /> </p>
 
@@ -14,7 +14,7 @@
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deepi_badshah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepi-badshah)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b420021@iiit-bh.ac.in)
-[![Whatsapp](https://wa.me//919728462376)]
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me//919728462376)
 
 ## 💻 Tech Stack
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -22,8 +22,8 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Git]([https://img.shields.io/badge/-Git-05122A?style=flat&logo=git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white))
+![GitHub]([https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white))
 
 
 ## 📈 Activity Graph
