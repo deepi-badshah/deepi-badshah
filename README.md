@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0112.gif" 
          alt="Waving hand animated gif"
-         height="60"
-         width="80" /> Deepanshu Rajput here</h1>
+         height="100"
+         width="150" /> Deepanshu Rajput here</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepi-badshah&label=Views&color=blue&style=plastic&style=for-the-badge" alt="deepi-badshah" /> </p>
 
