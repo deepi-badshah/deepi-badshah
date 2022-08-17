@@ -1,4 +1,4 @@
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Welcome!, <img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0112.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Deepanshu Rajput</h1>
@@ -13,7 +13,8 @@
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deepi_badshah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepi-badshah)
-<a href="mailto:b420021@iiit-bh.ac.in"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b420021@iiit-bh.ac.in)
+[![Whatsapp](https://wa.me//919728462376)]
 
 ## 💻 Tech Stack
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
