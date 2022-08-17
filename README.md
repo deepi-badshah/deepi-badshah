@@ -1,7 +1,7 @@
-<h1 align="center"> <img src="https://www.animatedimages.org/data/media/707/animated-welcome-image-0112.gif" 
+<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
-         height="100"
-         width="150" /> Deepanshu Rajput here</h1>
+         height="45"
+         width="45" /> I'm Deepanshu Rajput</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepi-badshah&label=Views&color=blue&style=plastic&style=for-the-badge" alt="deepi-badshah" /> </p>
 
