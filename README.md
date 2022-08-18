@@ -1,15 +1,23 @@
-<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+
+<h1 align="center"> Hello geeks!<img src="https://media1.giphy.com/media/26u4cqVR8dsmedTJ6/giphy.gif?cid=790b7611c0afc06b86a876cceda0ff7006ea4b4c7f732d33&rid=giphy.gif&ct=g" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Deepanshu Rajput</h1>
+         width="45" />nice to see you, Deepu this side!! 😄</h1>
+ <br>
+ <div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
+</div>  
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepi-badshah&label=Views&color=blue&style=plastic&style=for-the-badge" alt="deepi-badshah" /> </p>
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🌱 I’m currently learning more about Flutter.
+- 🌱 I’m currently learning more about Flutter and mastering DSA using C++.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
+- 🥅 2022 Goals: Contribute more to Open Source projects and Learn more!
+- 👯 I’m looking to collaborate for hackathons and projects.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/deepi_badshah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepi-badshah)
@@ -42,11 +50,18 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepi-badshah&theme=vue" />
 </p>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+<h2 align="left">✍️Random Dev Quote</h2>
+<p align="left">
+	<img width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" />
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=deepi-badshah&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
+<h2 align="left">:wink: Sad Day? Let me get a smile on your face  </h2>                                                
+<p align="left">
+	<img width="70%" src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
+</p>
+
+
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=deepi-badshah&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in" alt="deepi-badshah" /> </p>
 
   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/deepibadshah)
